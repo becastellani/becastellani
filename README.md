@@ -18,5 +18,14 @@
   
 </div>
 
-![Snake animation](https://github.com/becastellani/becastellani/blob/output/github-contribution-grid-snake.svg)
+- uses: Platane/snk@v2
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    becastellani ${{ github.repository_owner }}
+
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
