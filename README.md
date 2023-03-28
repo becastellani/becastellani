@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 Hello Guys, Eu sou o Bernardo, estudante de Engenharia de Software e apaixonado por tecnologia!!!
 :-
-[![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=becastellani&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=becastellani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  <a href="https://github.com/becastellani">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=becastellani&show_icons=true&theme=cobalt&hide_border=false&show_owner=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becastellani&theme=cobalt&hide_border=false&&layout=compact"/>
+  </a>
+</div>
