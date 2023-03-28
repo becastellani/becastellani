@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 Hello Guys, Eu sou o Bernardo, estudante de Engenharia de Software e apaixonado por tecnologia!!!
+  :-
   </div>
-:-
 
 <div align="center">
   <a href="https://github.com/becastellani">
