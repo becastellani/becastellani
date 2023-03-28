@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 Hello Guys, Eu sou o Bernardo, estudante de Engenharia de Software e apaixonado por tecnologia!!!
+  </div>
 :-
 
 <div align="center">
