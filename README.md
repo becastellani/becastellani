@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Bem Vindo ao perfil de Bernardo!!👋</h1>
 
 <!--
 **becastellani/becastellani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-Hello Guys, Eu sou o Bernardo, estudante de Engenharia de Software e apaixonado por tecnologia!!!
-  :-
-  </div>
+
+<p align="center">💻Software Enginneering Student💻</p>
 
 <div align="center">
   <a href="https://github.com/becastellani">
