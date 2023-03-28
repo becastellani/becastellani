@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Hello Guys, Eu sou o Bernardo, estudante de Engenharia de Software e apaixonado por tecnologia!!!
-<br>
+:-
 [![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=becastellani&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
