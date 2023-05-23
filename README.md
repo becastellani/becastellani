@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-    <img height="160em" src="(https://github-readme-stats.vercel.app/api?username=becastellani&theme=blue-green&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="160em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=becastellani&theme=blue-green&show_icons=true&hide_border=true&layout=compact"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=becastellani&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becastellani&theme=dark&hide_border=false&&layout=compact"/>
 </div>
 <div align="center"> 
   <a href="https://instagram.com/bernardo_castell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
