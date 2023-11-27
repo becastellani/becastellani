@@ -29,4 +29,7 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/becastellani/snk/output/github-contribution-grid-snake.svg"
   />
+  <br>
 </picture>
+<br>
+<p align='center'><a href='https://github.com/becastellani'><img src='https://profile-counter.glitch.me/becastellani/count.svg' alt='Visitor Count'></a></p>
