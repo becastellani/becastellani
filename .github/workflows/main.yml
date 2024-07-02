@@ -5,6 +5,7 @@ on:
     # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -12,5 +13,5 @@ jobs:
     steps:
       - uses: miermontoto/waka-readme-stats@v5
         with:
-          WAKATIME_API_KEY: ${{ waka_7fddba0f-2340-4291-8ef9-0270f6800f06 }}
-          GH_TOKEN: ${{ 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 }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
