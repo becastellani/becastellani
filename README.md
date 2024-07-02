@@ -8,9 +8,12 @@
     <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=becastellani&show_icons=true&theme=blue-green&hide_border=false&show_owner=true"/>
  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=becastellani&theme=blue-green&hide_border=false&&layout=compact"/>
 </div>
-<div align="center">
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=becastellani\&layout=compact)
+  <div align="center">
+    ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@becastellani\&layout=compact)
   </div>
+
+  <br>
+  <br>
 <div align="center"> 
   <a href="https://instagram.com/bernardo_castell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:becastellani10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
