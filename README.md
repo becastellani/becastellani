@@ -9,7 +9,7 @@
  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=becastellani&theme=blue-green&hide_border=false&&layout=compact"/>
 </div>
   <div align="center">
-    ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@becastellani\&layout=compact)
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=becastellani&layout=compact"/>
   </div>
 
   <br>
