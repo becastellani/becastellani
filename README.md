@@ -14,15 +14,16 @@
 
   <br>
   <br>
+  <div align="center">
+<a href="https://wakatime.com/@018c3f5f-3d03-4c9a-b21c-947fb58b36d9"><img src="https://wakatime.com/badge/user/018c3f5f-3d03-4c9a-b21c-947fb58b36d9.svg" alt="Total time coded since Dec 6 2023" /></a>
+</div>
+
+<br>
 <div align="center"> 
   <a href="https://instagram.com/bernardo_castell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:becastellani10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bernardo-castellani-b515a0203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-
-<div align="center">
-<a href="https://wakatime.com/@018c3f5f-3d03-4c9a-b21c-947fb58b36d9"><img src="https://wakatime.com/badge/user/018c3f5f-3d03-4c9a-b21c-947fb58b36d9.svg" alt="Total time coded since Dec 6 2023" /></a>
 </div>
 
 <picture>
