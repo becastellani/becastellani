@@ -21,6 +21,9 @@
   
 </div>
 
+<div align="center">
+<a href="https://wakatime.com/@018c3f5f-3d03-4c9a-b21c-947fb58b36d9"><img src="https://wakatime.com/badge/user/018c3f5f-3d03-4c9a-b21c-947fb58b36d9.svg" alt="Total time coded since Dec 6 2023" /></a>
+</div>
 
 <picture>
   <source
