@@ -43,6 +43,19 @@ I care about production stability, clean integrations, and solving problems that
 
 ---
 
+## 🚀 Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**ActionPlanner**](https://github.com/becastellani/ActionPlanner) | Task management system with professional dashboard, full CRUD and JWT auth | Angular · Node.js · TypeScript · PostgreSQL |
+| [**Price Tracker**](https://github.com/becastellani/go-price-tracker) | Concurrent price scraper for e-commerces using goroutines with configurable alerts | Go · Goroutines · PostgreSQL · REST API |
+| [**CorpSync MDM**](https://github.com/becastellani/CorpSyncMDM) | Mobile device management system with Flutter/Kotlin agent and real-time analytics dashboard | Flutter · Kotlin · Node.js · React · PostgreSQL |
+| [**RemoteMouse**](https://github.com/becastellani/Flutter-RemoteMouse) | Flutter app to control your computer remotely via smartphone over Socket.IO | Flutter · Dart · Python · Socket.IO |
+
+> 🔗 **[becastellani.dev](https://becastellaniportfolio.vercel.app/)** — full portfolio · live projects · contact
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
